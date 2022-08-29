@@ -1,6 +1,17 @@
-### Hi there 👋
-My name is Bunyod, I live in Uzbekistan. I am interested in programming. I know programming languages c, html, css, python and ruby. I enjoy what I do.
-![Bunyod's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunyoddev&theme=dark&show_icons=true)
+### Hi there 👋, My name is Bunyod
+#### I am a software developer
+![I am a software developer](https://i.pngimg.me/thumb/f/720/4544870387548160.jpg)
+
+My name is Bunyod, I live in Uzbekistan. I am interested in programming. I know programming languages c, html, css, python and ruby. I.
+
+Skills: C/Python/Ruby/ HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 Contact:
 >>| 
