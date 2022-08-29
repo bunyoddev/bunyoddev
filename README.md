@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Bunyod
 #### I am a software developer
-<img srs="https://w7.pngwing.com/pngs/703/417/png-transparent-happy-emoji-icon-smiley-emoticon-hello-say-hi-face-smiley-fruit.png">
+<img src="https://w7.pngwing.com/pngs/703/417/png-transparent-happy-emoji-icon-smiley-emoticon-hello-say-hi-face-smiley-fruit.png">
 
 My name is Bunyod, I live in Uzbekistan. I am interested in programming. I know programming languages c, html, css, python and ruby. I.
 
