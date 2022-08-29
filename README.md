@@ -8,11 +8,6 @@ Skills: C/Python/Ruby/ HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
-
-
-
-
-
 Contact:
 >>| 
 [Facebook](http://facebook.com/Bunyod_Qutpiddinov)
