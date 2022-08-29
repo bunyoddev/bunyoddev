@@ -7,7 +7,7 @@ Contact:
 [Facebook](http://facebook.com/Bunyod_Qutpiddinov)
 [Instagram](http://instagram.com/Bunyod_Qutpiddinov)
 [Telegram](http://t.me.com/Bunyod_Qutpiddinov)
-[Email](http://mail:bunyodqutpiddinov6@gmail.com)
+[Email](http://mailto:bunyodqutpiddinov6@gmail.com)
 >>|
 
 
