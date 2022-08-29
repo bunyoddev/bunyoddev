@@ -10,4 +10,4 @@ Contact:
 [Email](mail:bunyodqutpiddinov6@gmail.com)
 >>|
 
-https://akm-img-a-in.tosshub.com/indiatoday/images/story/201909/contact-details-3381225_1280.jpeg?524JGkJvIBQ1imnKfpn2djsEHFX06JK7&size=1200:675
+https://akm-img-a-in.tosshub.com/indiatoday/images/story/201909/contact-details-3381225_1280.jpeg
