@@ -9,21 +9,11 @@ Contact:
 [Telegram](http://t.me.com/Bunyod_Qutpiddinov)
 [Email](http://mailto:bunyodqutpiddinov6@gmail.com)
 >>|
+
+
 ![image](https://user-images.githubusercontent.com/96412358/187134254-bb920a36-de00-4969-a7f9-052dc6f36c97.png)
 
-# Clone this project
-$ git clone https://github.com/maurodesouza/profile-readme-generator
 
-# Access
-$ cd profile-readme-generator
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn dev
-
-# The server will initialize in the <http://localhost:3000>
 
 
 
