@@ -6,8 +6,8 @@ Contact:
 >>| 
 [Facebook](http://facebook.com/Bunyod_Qutpiddinov)
 [Instagram](http://instagram.com/Bunyod_Qutpiddinov)
-[Telegram](t.me://Bunyod_Qutpiddinov)
-[Email](mail:bunyodqutpiddinov6@gmail.com)
+[Telegram](http://t.me.com/Bunyod_Qutpiddinov)
+[Email](http://mail:bunyodqutpiddinov6@gmail.com)
 >>|
 
-https://akm-img-a-in.tosshub.com/indiatoday/images/story/201909/contact-details-3381225_1280.jpeg
+
