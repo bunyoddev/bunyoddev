@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Bunyod
+### Hi there, My name is Bunyod  <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="27px">
 #### I am a software developer
 My name is Bunyod, I live in Uzbekistan. I am interested in programming. I know programming languages c, html, css, python and ruby. I.
 
