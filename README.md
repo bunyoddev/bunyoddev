@@ -8,7 +8,7 @@ Skills: C/Python/Ruby/ HTML / CSS
 Contact:
 >>| 
 [Facebook](https://facebook.com/Bunyod_Qutpiddinov)
-[Discord](https://discord.com/in/Bunyod_Qutpiddinov#1267)
+[Discord](https://discordapp.com/users/956423891818020905)
 [Telegram](https://t.me/Bunyod_Qutpiddinov)
 [Email](mailto:bunyodqutpiddinov6@gmail.com)
 >>|
