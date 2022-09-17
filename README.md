@@ -20,8 +20,7 @@ Skills: C/ Html/ Css/ Python/ Ruby
 [Email](mailto:bunyodqutpiddinov6@gmail.com)
 >>|
 
-<img src="https://github.com/adriantwarog/adriantwarog/raw/master/covid19.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<!-- ![image](https://user-images.githubusercontent.com/96412358/187134254-bb920a36-de00-4969-a7f9-052dc6f36c97.png) -->
+![image](https://user-images.githubusercontent.com/96412358/187134254-bb920a36-de00-4969-a7f9-052dc6f36c97.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunyoddev&theme=dark&show_icons=true)
 
