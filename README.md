@@ -16,7 +16,7 @@ Contact:
 
 ![image](https://user-images.githubusercontent.com/96412358/187134254-bb920a36-de00-4969-a7f9-052dc6f36c97.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunyoddev&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunyoddev&theme=dark&show_icons=true)
 
 
 
