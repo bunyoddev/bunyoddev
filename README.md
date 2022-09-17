@@ -18,6 +18,8 @@ Contact:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunyoddev&theme=dark&show_icons=true)
 
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg" width="600" style="max-width: 100%;">
+
 
 
 
