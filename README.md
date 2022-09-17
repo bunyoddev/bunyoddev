@@ -20,6 +20,8 @@ Contact:
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg" width="600" style="max-width: 100%;">
 
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%" style="max-width: 100%;">
+
 
 
 
