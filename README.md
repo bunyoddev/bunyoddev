@@ -12,7 +12,7 @@ Talking about Personal Stuffs:
 
 I am a frontend developer, mainly interested in working with design;
 
-👨‍💻 Most of my projects are available on Github;
+👨‍💻 Most of my projects are available on <a href="https://github.com/aliyusupof1">Github</a>;
 
 📝 I create landing pages in my spare time.
 
