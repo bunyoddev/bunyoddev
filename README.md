@@ -7,9 +7,13 @@ My name is Bunyod and I am 20 years old. I was born in Uzbekistan. I am interest
 Talking about Personal Stuffs:
 
 🔭 I’m currently learning on something cool;
+
 💬 Ask me about anything. I will try to help you as much as I can;
+
 I am a frontend developer, mainly interested in working with design;
+
 👨‍💻 Most of my projects are available on Github;
+
 📝 I create landing pages in my spare time.
 
 
