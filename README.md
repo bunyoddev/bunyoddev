@@ -11,7 +11,7 @@ Talking about Personal Stuffs:
 I am a frontend developer, mainly interested in working with design;
 👨‍💻 Most of my projects are available on Github;
 📝 I create landing pages in my spare time.
-<!-- <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> -->
+
 
 <img align="right" alt="Hello world gif" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" height="300" width="400" style="max-width: 100%;">
 
