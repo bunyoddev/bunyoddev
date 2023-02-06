@@ -29,6 +29,7 @@ Skills: C/ Html/ Css/ Python/ Ruby/ C#
 [Discord](https://discordapp.com/users/956423891818020905)
 [Telegram](https://t.me/Bunyod_Qutpiddinov)
 [Email](mailto:bunyodqutpiddinov6@gmail.com)
+[Linkidin](https://www.linkedin.com/in/bunyod-qutpiddinov-19b82224b/)
 >>|
 
 ![image](https://user-images.githubusercontent.com/96412358/187134254-bb920a36-de00-4969-a7f9-052dc6f36c97.png)
