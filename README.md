@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg" width="600" style="max-width: 100%;">
+<!-- <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg" width="600" style="max-width: 100%;"> -->
 
 ### Hi there, My name is Bunyod <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="27px">
 #### I am a software developer
