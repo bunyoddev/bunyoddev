@@ -20,7 +20,7 @@ I am a frontend developer, mainly interested in working with design;
 Skills: C/ Html/ Css/ Python/ Ruby/ C#
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,python,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,python,.net)](https://skillicons.dev)
 
 
 ### Contact:
