@@ -2,7 +2,7 @@
 
 ### Hi there, My name is Bunyod <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="27px">
 #### I am a software developer
-My name is Bunyod and I am 20 years old. I was born in Uzbekistan. I am interested in programming, currently I am studying software engineering at Astrum Academy. I know C, Python, Ruby, HTML, Css programming languages.
+My name is Bunyod and I am 20 years old. I was born in Uzbekistan. I am interested in programming, currently I am studying software engineering at Astrum Academy. I know C, Python, Ruby, C#, HTML, Css programming languages.
 
 Talking about Personal Stuffs:
 
